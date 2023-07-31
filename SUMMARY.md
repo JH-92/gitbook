@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+## 가상면접 사례로 배우는 대규모 시스템 설계 기초
 
-## Group 1
-
-* [chapter1](group-1/chapter1.md)
+* [chapter1](README.md)
+* [chapter2](undefined/chapter2.md)
+* [chapter3](undefined/chapter3.md)
